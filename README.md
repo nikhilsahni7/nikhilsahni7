@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**nikhilsahni7/nikhilsahni7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+I'm Nikhil Sahni, a passionate Full Stack Developer currently studying Computer Science and expected to graduate in 2026.. I love building scalable, user-friendly applications with a focus on clean and efficient code.
+🔭 Currently Working On
+🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Enhancing my personal portfolio website to showcase my projects and skills.
+    Developing new features for my e-learning platform, Study-Point, to improve the user experience.
+
+🌱 Learning
+
+    Advanced React.js,Next.js,Golang and Python for more dynamic web applications.
+    Cloud services and deployment strategies to improve performance.
+
+💬 Ask Me About
+
+    Full Stack Development (React.js, Node.js, Next.js,Golang)
+    Building and deploying scalable web apps
+
+📫 How to Reach Me
+
+    Email: nikhil.sahni321@gmail.com
+    LinkedIn: Nikhil Sahni
+    Portfolio: Personal Portfolio
+
+
+
+
+📂 Projects
+
+    Study-Point: An e-learning platform serving 500+ students.
+    FitnessFusion X Bync Gym: A scalable gym website supporting 300+ concurrent users.
+
+Feel free to explore my repositories and get in touch if you want to collaborate!
