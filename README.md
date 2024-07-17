@@ -20,7 +20,9 @@ I'm Nikhil Sahni, a passionate Full Stack Developer currently studying Computer 
 - Portfolio: [Personal Portfolio](https://personal-portfolio-blue-one.vercel.app/)
 
 ## 📂 Projects
-- [Study-Point](https://study-point-nine.vercel.app/): An e-learning platform serving 500+ students.
-- [FitnessFusion X Bync Gym](https://fitnessfusion-self.vercel.app/): A scalable gym website supporting 300+ concurrent users.
+- [Study-Point](https://study-point-nine.vercel.app/): An e-learning platform serving college students 
+- [FitnessFusion X Bync Gym](https://fitnessfusion-self.vercel.app/): A scalable gym and fitness website for fitness enthusiasts
+- [Skill-Bridge](https://skill-bridg.vercel.app/):A platform where clients and freelancers can work together to grow their businesses and earn money
+- [Blog-app](https://blog-app-ten-orpin.vercel.app/):A personal blogging app just like medium where users can create and view blogs and write their thoughts and learn from others
 
 Feel free to explore my repositories and get in touch if you want to collaborate!
