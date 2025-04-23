@@ -13,8 +13,9 @@
 ---
 
 ## 📚 Currently Exploring
-- Advanced TypeScript & Golang  
-- Scalable backend systems and cloud deployment (AWS, Vercel)
+- Advanced TypeScript, Golang & Electron.js  
+- Scalable backend systems and cloud deployment (AWS, Vercel)  
+- Flutter, React Native (Expo), and mobile development best practices to become a great mobile developer
 
 ---
 
@@ -26,3 +27,4 @@
 ---
 
 *Open to collaborations & freelance opportunities.*
+
