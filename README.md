@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nikhil Sahni
 
-🎓 CS Undergrad (2026) | 💻 Full Stack & Mobile App Developer  
+ 💻 Full Stack & Mobile App Developer  
 🚀 Building fast, scalable, and user-focused apps using React, Next.js, Node.js, Golang, Flutter & React Native (Expo)
 
 ---
