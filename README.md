@@ -6,8 +6,6 @@ I build software from a user's problem through implementation and launch. The pr
 
 500 GB+ financial platform, used daily by 100–200 bank staff, at 99.9% uptime · Rawpng: 1K+ daily users · TaxiSure: 1K+ downloads and a 4.2-star rating · RAISE Summit 2026, $500 Cursor credits.
 
-B.Tech in Software Engineering, Manav Rachna University · CGPA 7.5/10 · 2022–2026.
-
 [LinkedIn](https://linkedin.com/in/nikhil-sahni7) · [Portfolio](https://nikhilsahni.online) · [LeetCode](https://leetcode.com/nikhil_sahni7) · [Email](mailto:nikhil.sahni321@gmail.com)
 
 ## Currently
