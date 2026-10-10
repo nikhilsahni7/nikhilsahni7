@@ -6,7 +6,7 @@ I build software from a user's problem through implementation and launch. The pr
 
 500 GB+ financial platform, used daily by 100–200 bank staff, at 99.9% uptime · Rawpng: 1K+ daily users · TaxiSure: 1K+ downloads and a 4.2-star rating · RAISE Summit 2026, $500 Cursor credits.
 
-[LinkedIn](https://linkedin.com/in/nikhil-sahni7) · [Portfolio](https://nikhilsahni.online) · [LeetCode](https://leetcode.com/nikhil_sahni7) · [Email](mailto:nikhil.sahni321@gmail.com)
+[LinkedIn](https://linkedin.com/in/nikhil-sahni7) · [Portfolio](https://nikhilsahni.online) · [Email](mailto:nikhil.sahni321@gmail.com)
 
 ## Currently
 
@@ -74,8 +74,6 @@ Prototype only, not in production. Attendance and exam modules scoped for 20,000
 ## Also
 
 1st place, IIIT-Delhi FoodoScope Hackathon: NutriWise, an AI nutrition assistant, among 100+ teams.
-
-243 problems solved on LeetCode (131 medium, 23 hard).
 
 ## Stack
 
