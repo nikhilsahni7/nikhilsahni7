@@ -10,6 +10,12 @@ B.Tech in Software Engineering, Manav Rachna University · CGPA 7.5/10 · 2022�
 
 [LinkedIn](https://linkedin.com/in/nikhil-sahni7) · [Portfolio](https://nikhilsahni.online) · [LeetCode](https://leetcode.com/nikhil_sahni7) · [Email](mailto:nikhil.sahni321@gmail.com)
 
+## Currently
+
+Looking for freelance work and full-time software engineering roles. 2026 batch. Remote or Noida.
+
+The work I want is Go backends, system design, and cloud infra, plus products in Next.js, React, and Node.js.
+
 ## Exploring
 
 Advanced Go backends: services, data models, and the path from an API to a deploy.
@@ -17,15 +23,6 @@ Advanced Go backends: services, data models, and the path from an API to a deplo
 Cloud and infrastructure system design: AWS, Docker, Terraform, Nginx, and how a system stays up under real use.
 
 Full product builds in Next.js, React, and Node.js, with the backend and the infra designed as part of the same system.
-
-## Currently
-
-**Software Engineer — Clay Web Solutions LLP**
-Remote · Jan 2024–Present
-
-Build client products in Next.js, React, and Node.js, from the requirement to the GitHub release.
-
-Shipped [Aqyntra](https://aqyntra.com), the public site for a biodegradable packaging company, and [Rawpng](https://rawpng.com), a stock asset library at 1K+ daily users.
 
 ## Previously
 
@@ -43,6 +40,12 @@ Built and operate a 500 GB+ Go platform used daily by 100–200 bank staff. Own 
 Dockerized Go services (Gin, GORM) on AWS (EC2, S3, OpenSearch) with Terraform and Nginx. 99.9% uptime under $1,500/month. PostgreSQL and OpenSearch indexes for sub-second search across millions of records. In production for 1 year.
 
 Go · Gin · GORM · PostgreSQL · AWS · Terraform · Docker
+
+### [Rawpng](https://rawpng.com) and [Aqyntra](https://aqyntra.com)
+
+Rawpng is a stock asset library at 1K+ daily users. Aqyntra is the public site for a biodegradable packaging company. Both shipped in Next.js, React, and Node.js, from the requirement to the live release.
+
+Next.js · React · Node.js
 
 ### [TaxiSure](https://taxisure.in) — Ride-hailing app
 
@@ -89,5 +92,3 @@ Data: PostgreSQL, MongoDB, Redis.
 Cloud: AWS (EC2, S3, OpenSearch), Docker, Terraform, Nginx, GitHub Actions.
 
 AI in products: Groq API, Llama 3.3, Whisper, Gemini text-to-speech.
-
-Open to software engineering roles for the 2026 batch, especially Go backends, system design, and infra, plus Next.js, React, and Node.js products with real users. Remote or Noida.
